@@ -1,0 +1,3 @@
+"AadClientId": "9d6e376b-7ad7-478a-a61b-a25c662f7ed5",
+  "AadSecret": "p3n7Q~XXXX",
+  "AadTenantId": "c355d660-172c-4ec2-aae0-b3f76f7836de",
